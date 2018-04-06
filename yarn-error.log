@@ -3662,7 +3662,7 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 255
+  Exit code: 1
   Command: sh
   Arguments: -c webpack-dev-server
   Directory: /Users/n.shlikhtenko/Work/typescript-basics-seed
